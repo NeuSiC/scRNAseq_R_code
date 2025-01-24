@@ -2,6 +2,7 @@
 # Session Data files
 .RData
 .RDataTmp
+.Rhistory
 
 #RMarkdown files
 *.Rmd
