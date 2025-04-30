@@ -8,3 +8,7 @@
 *.Rmd
 *.Rproj
 .Rproj.user
+
+# data objects for code 
+cao_without_treated5_and_ctrl3.qs
+crm_cellbender_without_ctrl3_and_treated5.qs
