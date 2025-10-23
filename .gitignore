@@ -11,4 +11,10 @@
 
 # data objects for code 
 cao_without_treated5_and_ctrl3.qs
-crm_cellbender_without_ctrl3_and_treated5.qs
+crm_cellbender.qs
+crm.qs
+crm_filtered.qs
+GSEA.tsv
+cao.qs
+plotDiffCellDensity.R
+con2_without_treated5_and_ctrl3.qs
