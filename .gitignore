@@ -10,11 +10,10 @@
 .Rproj.user
 
 # data objects for code 
-cao_without_treated5_and_ctrl3.qs
-crm_cellbender.qs
-crm.qs
-crm_filtered.qs
 GSEA.tsv
-cao.qs
 plotDiffCellDensity.R
-con2_without_treated5_and_ctrl3.qs
+*.qs2
+*.qs
+
+# plots for html files
+img/
